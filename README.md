@@ -2,7 +2,8 @@ This is a version of MilkyTracker modified for my own (predominantly 4-channel P
 variety of UI modifications and the (hacky) inclusion of an image 
 resource. 
 
-[MilkyTracker Syphus custom](http://i.imgur.com/LEx4ZUf.png)
+![MilkyTracker Syphus custom](http://i.imgur.com/LEx4ZUf.png)
+
 
 Mods include:
 
